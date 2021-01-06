@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="com.orangehrm.qa.util.Reporting" />
+		<listener class-name="com.orangehrm.qa.util.Utility1" />
+	</listeners>
+
+	<test name="Test">
+		<classes>
+			<class name="com.orangehrm.qa.testcases.TestCase_01" />
+			<class name="com.orangehrm.qa.testcases.Ddtests" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.orangehrm.qa.testcases.Ddtests">
+        <methods>
+          <include name="temp" invocation-numbers="1 2 3"/>
+          <include name="init"/>
+          <include name="teardown"/>
+          <include name="init2"/>
+        </methods>
+      </class> <!-- com.orangehrm.qa.testcases.Ddtests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

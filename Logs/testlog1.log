@@ -1,0 +1,26 @@
+2021-01-06 13:43:48,972 [main] INFO com.orangehrm.qa.base.Main_Base - browser started :
+2021-01-06 13:44:35,893 [main] INFO com.orangehrm.qa.base.Main_Base - Started test named : ValidLogin
+2021-01-06 13:44:35,917 [main] INFO com.orangehrm.qa.base.Main_Base - Checking credentials
+2021-01-06 13:46:40,575 [main] INFO com.orangehrm.qa.base.Main_Base - User logged in
+2021-01-06 13:46:43,007 [main] INFO com.orangehrm.qa.base.Main_Base - browser started :
+2021-01-06 13:47:24,675 [main] INFO com.orangehrm.qa.base.Main_Base - fetching data..
+2021-01-06 13:47:26,536 [main] INFO com.orangehrm.qa.base.Main_Base - ==================================================================
+2021-01-06 13:47:26,542 [main] INFO com.orangehrm.qa.base.Main_Base - Started test named : temp
+2021-01-06 13:47:26,547 [main] INFO com.orangehrm.qa.base.Main_Base - Entering valid invalid credentials..
+2021-01-06 13:47:40,800 [main] INFO com.orangehrm.qa.base.Main_Base - Credentials Matched logging out..
+2021-01-06 13:47:40,813 [main] INFO com.orangehrm.qa.base.Main_Base - ==================================================================
+2021-01-06 13:47:40,821 [main] INFO com.orangehrm.qa.base.Main_Base - Started test named : temp
+2021-01-06 13:47:40,829 [main] INFO com.orangehrm.qa.base.Main_Base - Entering valid invalid credentials..
+2021-01-06 13:47:44,079 [main] INFO com.orangehrm.qa.base.Main_Base - temp failed
+2021-01-06 13:47:44,760 [main] INFO com.orangehrm.qa.base.Main_Base - ==================================================================
+2021-01-06 13:47:44,765 [main] INFO com.orangehrm.qa.base.Main_Base - Started test named : temp
+2021-01-06 13:47:44,777 [main] INFO com.orangehrm.qa.base.Main_Base - Entering valid invalid credentials..
+2021-01-06 13:47:48,758 [main] INFO com.orangehrm.qa.base.Main_Base - temp failed
+2021-01-06 13:47:49,277 [main] INFO com.orangehrm.qa.base.Main_Base - ==================================================================
+2021-01-06 13:47:49,282 [main] INFO com.orangehrm.qa.base.Main_Base - Started test named : temp
+2021-01-06 13:47:49,288 [main] INFO com.orangehrm.qa.base.Main_Base - Entering valid invalid credentials..
+2021-01-06 13:47:52,096 [main] INFO com.orangehrm.qa.base.Main_Base - temp failed
+2021-01-06 13:47:52,602 [main] INFO com.orangehrm.qa.base.Main_Base - ==================================================================
+2021-01-06 13:47:52,606 [main] INFO com.orangehrm.qa.base.Main_Base - Started test named : temp
+2021-01-06 13:47:52,612 [main] INFO com.orangehrm.qa.base.Main_Base - Entering valid invalid credentials..
+2021-01-06 13:47:56,558 [main] INFO com.orangehrm.qa.base.Main_Base - unmatched credentials failing..

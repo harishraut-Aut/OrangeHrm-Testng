@@ -1,9 +1,12 @@
 # OrangeHrm-Testng
 This is Data driven framework designed by me 
 By using -> DataproviderAprroach.
+
 i have used :
+
 TestNG+Maven
-I have Created 4 utility files : 
+
+Page Object Model | 4 utility files | Object Repo-(.properties) included 
 1) Excel Utility
 2) Extent-report
 3) Utility to extract Data from excel file 

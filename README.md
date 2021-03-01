@@ -2,6 +2,10 @@
 This is Data driven framework designed by me 
 By using -> DataproviderAprroach.
 
+Module Tested :
+1) Admin-Myinfo
+2) Admin-Emergenc Contacts
+
 i have used :
 
 TestNG+Maven
